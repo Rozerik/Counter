@@ -1,6 +1,6 @@
-import Button from './assets/Components/Button'
+import Button from './Components/Button'
 import { useState } from 'react'
-import './App.css'
+import './styles.css'
 
 
 function App() {
