@@ -1,7 +1,6 @@
 # Counter App
 
 Простое приложение-счётчик с двумя кнопками: увеличение и уменьшение значения.
-
 ## Описание
 
 Приложение отображает:
@@ -19,21 +18,24 @@
 ## Установка и запуск
 
 1. Склонировать репозиторий:
-   \```bash
-   git clone https://github.com/ ваше_имя/counter-app.git
-   cd counter-app
-   \```
+
+   ```
+   git clone https://github.com/Rozerik/Counter
+   cd Counter
+   ```
 2. Установить зависимости:
-    \```bash
+   
+    ```
     npm install
-    \```
+    ```
 3. Запустить локальный сервер:
-    \```bash
+   
+    ```
     npm run dev
-    \```
+    ```
 ## Скриншот приложения
 
-![Скриншот приложения](public\assets\example.png)
+![Скриншот приложения](public/assets/example.png)
 
 ## Автор
 
